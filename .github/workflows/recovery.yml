@@ -20,7 +20,7 @@ env:
   DEVICE: WSP_sprout
   DT_LINK: https://github.com/SmallPP420/WSP_sprout-ANDROID11-A-B-TEST
   DT_PATH: device/hmd/WSP_sprout
-  DT_BRANCH: android-11
+  DT_BRANCH: main
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
