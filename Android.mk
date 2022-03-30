@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),WSP_sprout)
+ifeq ($(TARGET_DEVICE),WSP_poo)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
