@@ -17,10 +17,10 @@ env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git
   MANIFEST_BRANCH: twrp-11
   EXTRA_SYNC_CMD: echo ZAMN
-  DEVICE: WSP_poo
-  DT_LINK: https://github.com/SmallPP420/WSP_sprout-ANDROID11-A-B-TEST
-  DT_PATH: device/hmd/WSP_sprout
-  DT_BRANCH: main
+  DEVICE: WSP_sprout
+  DT_LINK: https://github.com/SmallPP420/twrp_device_nokia_WSP_sprout
+  DT_PATH: device/nokia/WSP_sprout
+  DT_BRANCH: android-11
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
